@@ -13,3 +13,6 @@
 - From the DETAILS PAGE, the user will be able to ADD TO FAVOURITES, by pressing a button. If the spot is already a user favourite, the user should have the option to REMOVE FROM FAVOURITES.
 - On the map and in the list, favourite spots need to be marked differently, using a yellow color.
 - In the DASHBOARD, top-right, a profile button will show a menu with a single action: “Log out”.
+
+## Live website
+https://kitesurfing.netlify.app/
