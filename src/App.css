@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  width: 100%;
+  margin: auto;
+  max-width: 1200px;
+  position: relative;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 50vh;
+  margin: auto;
+}
+
+.leaflet-popup-content {
+  min-width: 150px;
+}
+
+.leaflet-popup-content h3 {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.leaflet-popup-content p {
+  margin: 0;
+  padding: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.leaflet-popup-content h4 {
+  color: #787878;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.leaflet-popup-content img {
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.MuiList-root.MuiMenu-list.MuiList-padding {
+  width: 175px;
+}
+
+header {
+  box-shadow: none !important;
+}
